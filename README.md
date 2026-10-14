@@ -1,4 +1,4 @@
-# Autonomous Turret – Camera Auto-Tracking System
+# Autonomous tracker – Camera Auto-Tracking System
 
 ## Overview
 
